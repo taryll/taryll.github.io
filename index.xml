@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Title</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Title</description>
+    <title>Taryll Jun</title>
+    <link>https://taryll.github.io/</link>
+    <description>Recent content on Taryll Jun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://taryll.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
