@@ -5,6 +5,17 @@
     <link>https://taryll.github.io/posts/</link>
     <description>Recent content in Posts in progress... on Taryll Jun</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://taryll.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://taryll.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analisando dados do mercado imobiliário de Melbourne</title>
+      <link>https://taryll.github.io/posts/eda_melbourne/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://taryll.github.io/posts/eda_melbourne/</guid>
+      <description>Primeiro projeto de insights, analisando dados do setor imobiliário que parecia estar sofrendo uma bolha. São análises simples que podem gerar grandes valores se utilizadas de forma inteligente.
+Link do medium.</description>
+    </item>
+    
   </channel>
 </rss>
